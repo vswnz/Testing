@@ -28,6 +28,7 @@ public class FileWriterExample
             FileWriter writer = new FileWriter(file);                       
             writer.write("Whāia e koe te iti kahurangi;\n");
             writer.write("ki te tuohu koe, me maunga teitei");
+            // A comment that I added
             writer.flush();
             writer.close();
         } catch(IOException e) {};
