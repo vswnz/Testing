@@ -2,8 +2,8 @@
 /**
  * Write a description of class testing here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Bill
+ * @version 7-Mar-2021
  */
 
 // What is going on here?
